@@ -2,7 +2,7 @@
 
 This repository is for our main project for COS 301
 
-Group Name: <undecidables>
+Group Name: \<undecidables\>
 
 Group Members:  
 1) Elzahn Botha  <br>
