@@ -1,13 +1,13 @@
-# COS301_Main_Porject
+# COS301_Main_Project
 
-This repo is for the main project for COS 301
+This repository is for our main project for COS 301
 
-Group Name: Undecidables
+Group Name: <undecidables>
 
 Group Members:  
-1) Renette Ros  
-2) Vivian Venter  
-3) Elzahn Botha  
-4) Tienie Pritchard  
-5) Jason Richard Evans  
-6) Szymon Ziolkowski  
+1) Elzahn Botha  
+2) Jason Richard Evans
+3) Renette Ros
+4) Szymon Ziolkowski  
+5) Tienie Pritchard  
+6) Vivian Venter  (13238435)
