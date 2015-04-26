@@ -2,9 +2,9 @@
 
 This repository is for our main project for COS 301
 
-Group Name: \<undecidables\>
+**Group Name:** \<undecidables\>
 
-Group Members:  
+**Group Members:**  
 1) Elzahn Botha  <br>
 2) Jason Richard Evans <br>
 3) Renette Ros 	<br>
