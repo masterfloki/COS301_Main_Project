@@ -1,0 +1,11 @@
+*.synctex.gz
+*.synctex.gz(busy)
+*.toc
+*.aux
+*.out
+*.log
+*.lof
+*.bak
+~$*
+Thumbs.db
+*.tmp
