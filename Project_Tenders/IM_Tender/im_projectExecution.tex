@@ -1,1 +1,47 @@
+
 % project execution for IM -> I suggest we discuss this first before adding any sections etc.
+\subsection{What development methodology we intend to follow}
+\begin{itemize}
+    \item Agile Development
+\end{itemize}
+\subsection{How you are going to keep the client informed about the status of your project.}
+\begin{itemize}
+    \item Wiki
+    \item Weekly/Bi-Weekly Meeting
+\end{itemize}
+\subsection{Possibly any initial ideas you have around solving some of the technical challenges.}
+\begin{itemize}
+    \item Social Network Messengers to be integrated:
+    \item Finding existing APIs to communicate with each IM service 
+        \begin{itemize}
+            \item For example, via Facebook STK
+            \item SMSing easily be done on Android (i.e. ContentResolver)
+            \item ContentResolver can also load contacts
+        \end{itemize}
+    \item Finding ways of associating contacts with each of the IM applications
+        \begin{itemize}
+            \item Link based on name/first name
+            \item Cell Phone Number/E-mail
+            \item Storage of these associations and each contact from each IM application
+            \item We'll assume that each of the specified messenger's contacts are already stored on the user's mobile device, which we'll access via Android's STK
+        \end{itemize}
+    \item Plugability
+        \begin{itemize}
+            \item Use of Adapter design pattern
+        \end{itemize}
+\end{itemize}
+\subsection{Potentially the technologies your team intends to use for the project (as far as these are not prescribed by the client).}
+    \begin{itemize}
+        \item Android Operating System
+        \item Java
+    \end{itemize}
+\subsection{What the client will receive from you at the end of the project.}
+    \begin{itemize}
+        \item A fully integrated (but basic) Instant Messaging Aggregator
+        \item High quality interface design
+        \item High quality UX design
+        \item Good HCI 
+        \item Good performance from the application
+        \item This application will be pluggable, allowing for easy integration of other IM applications
+
+    \end{itemize}
