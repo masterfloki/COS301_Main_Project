@@ -4,6 +4,8 @@ This repository is for our main project for COS 301
 
 **Group Name:** \<undecidables\>
 
+![alt tag](https://raw.github.com/masterfloki/COS301_Main_Project/blob/master/Project_Tenders/images/Team.JPG)
+
 **Group Members:**  
 
 ```
