@@ -1,6 +1,6 @@
-# COS301_Main_Project
+# COS301_Main_Project - Tenders
 
-This repository is for our main project for COS 301
+This repository is for the tenders for our main project for COS 301
 
 **Group Name:** \<undecidables\>
 
